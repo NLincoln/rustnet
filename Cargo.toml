@@ -1,0 +1,6 @@
+[package]
+name = "rustnet"
+version = "0.1.0"
+authors = ["nlincoln <nlincoln@intellifarms.com>"]
+
+[dependencies]
